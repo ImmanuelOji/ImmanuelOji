@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImmanuelOji
-- 👀 I’m interested in python development
-- 🌱 I’m currently learning web development with django
-- 💞️ I’m looking to collaborate on working on python projects
+- 👀 I’m interested in data science
+- 🌱 I’m currently a data analyst 
+- 💞️ I work with Python, R and SQL
 - 📫 How to reach me ... instagram @ojitheog and snapchat @immanueloji10
 
 
